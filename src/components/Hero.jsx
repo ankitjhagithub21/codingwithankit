@@ -2,8 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 const Hero = () => {
   return (
-    <section className="body-font">
-    <div className="container mx-auto flex px-5 py-12 md:flex-row flex-col-reverse items-center">
+    <section className="body-font bg-white">
+    <div className="container mx-auto flex px-5 py-12 md:flex-row flex-col-reverse items-center ">
       <div className="lg:flex-grow md:w-full lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-start  md:mb-0 items-center text-center" id='hero-para'>
         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900 mt-5">
           CodingWithAnkit
